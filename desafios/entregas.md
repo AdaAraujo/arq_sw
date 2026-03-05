@@ -3,5 +3,5 @@
 - DESAFIO 2: 19/MAR/2026 (da AULA 4)
 
 # SUGESTÃO DE FERRAMENTAS COMPLEMENTAR
-- selenium: https://www.selenium.dev/
+- Selenium: https://www.selenium.dev/
 - ou outras para testes.
