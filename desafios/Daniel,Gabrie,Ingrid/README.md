@@ -1,6 +1,5 @@
-# projeto_arquitetura_software
-Projeto semente de Arquitetura de software do 3°P de SI, utilizando Python 3.14.3 e flask, trabalho feito em equipe
-
+# Repositório desatualizado: a equipe está usando um novo repositório por questão de organização (foi cria uma pasta com o nome da equipe e dentro dela separadas por pastas estão cada desafio)
+# Link do novo repositório: https://github.com/profclovesrocha/arq_sw/tree/main/desafios/Daniel%2CGabriel%2CIngrid
 #### Turma: 3°P de SI (manhã)
 #### Professor: Cloves Rocha
 #### Equipe:
