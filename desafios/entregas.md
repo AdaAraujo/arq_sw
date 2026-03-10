@@ -5,3 +5,6 @@
 # SUGESTÃO DE FERRAMENTAS COMPLEMENTAR
 - Selenium: https://www.selenium.dev/
 - ou outras para testes.
+
+# SUGESTÃO Desafios para Smart City By Prof. Cloves Rocha
+- https://docs.google.com/document/d/1C0nNNBLqCDSXJoIcvWlhaoC26HUpmbETfKGtKsIpeJs/edit?usp=sharing
