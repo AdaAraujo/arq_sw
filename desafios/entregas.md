@@ -6,5 +6,5 @@
 - Selenium: https://www.selenium.dev/
 - ou outras para testes.
 
-# SUGESTÃO de Desafios para Smart City 
+# SUGESTÃO - Desafios para Smart City 
 - https://docs.google.com/document/d/1C0nNNBLqCDSXJoIcvWlhaoC26HUpmbETfKGtKsIpeJs/edit?usp=sharing
