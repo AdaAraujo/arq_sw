@@ -4,6 +4,7 @@
 - DESAFIO 3: 24/MAR/2026 (da AULA 5) - 26/MAR TURMA NOITE
   
 # SUGESTÃO DE FERRAMENTAS COMPLEMENTAR
+- Flask: https://flask.palletsprojects.com/en/stable/
 - Selenium: https://www.selenium.dev/
 - ou outras para testes.
 
