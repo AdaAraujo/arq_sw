@@ -1,4 +1,4 @@
-Projeto semente de Arquitetura de software do 3°P de SI, utilizando Python 3, flask E SQLite3, trabalho feito em grupo.
+Projeto semente de Arquitetura de software do 3°P de SI, utilizando Python 3, flask e SQLite3, trabalho feito em grupo.
 
 Turma: 3°P de SI (manhã)
 Professor: Cloves Rocha
