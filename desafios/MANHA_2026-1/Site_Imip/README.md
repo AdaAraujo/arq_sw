@@ -48,4 +48,3 @@ sistema simples e eficiente.
 Conclui-se que as decisões adotadas permitem o funcionamento adequado do sistema no contexto
 proposto, ao mesmo tempo em que possibilitam futuras evoluções para atender demandas mais
 complexas.
-Pedro Henrique Danel (01838266)
